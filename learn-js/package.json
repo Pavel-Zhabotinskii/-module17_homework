@@ -8,12 +8,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/aneelia/learn-js.git"
+      "url": "git+https://github.com/Pavel-Zhabotinskii/-module17_homework.git"
     },
     "author": "aneelia",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/aneelia/learn-js/issues"
+      "url": "https://github.com/Pavel-Zhabotinskii/-module17_homework/issues"
     },
-    "homepage": "https://github.com/aneelia/learn-js#readme"
+    "homepage": "https://github.com/Pavel-Zhabotinskii/-module17_homework#readme"
 }
