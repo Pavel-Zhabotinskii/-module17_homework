@@ -1,19 +1,23 @@
 {
-    "name": "learn-js",
-    "version": "1.0.0",
-    "description": "js examples for fast learning",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Pavel-Zhabotinskii/-module17_homework.git"
-    },
-    "author": "pavel",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Pavel-Zhabotinskii/-module17_homework/issues"
-    },
-    "homepage": "https://github.com/Pavel-Zhabotinskii/-module17_homework#readme"
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "js examples for fast learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel-Zhabotinskii/-module17_homework.git"
+  },
+  "author": "pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavel-Zhabotinskii/-module17_homework/issues"
+  },
+  "homepage": "https://github.com/Pavel-Zhabotinskii/-module17_homework#readme",
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
